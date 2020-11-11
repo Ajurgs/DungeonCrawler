@@ -1,0 +1,27 @@
+c:\users\alex\documents\visual studio 2015\Projects\DungeonCrawler\DungeonCrawler\bin\Debug\DungeonCrawler.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\DungeonCrawler\DungeonCrawler\bin\Debug\DungeonCrawler.exe
+c:\users\alex\documents\visual studio 2015\Projects\DungeonCrawler\DungeonCrawler\bin\Debug\DungeonCrawler.pdb
+c:\users\alex\documents\visual studio 2015\Projects\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.CharacterDisplay.resources
+c:\users\alex\documents\visual studio 2015\Projects\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.Dungeon.resources
+c:\users\alex\documents\visual studio 2015\Projects\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.exe
+c:\users\alex\documents\visual studio 2015\Projects\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.pdb
+C:\Users\Alex\documents\visual studio 2015\Projects\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.AttackDialogue.resources
+C:\Users\Alex\documents\visual studio 2015\Projects\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.SkillDialogue.resources
+C:\Users\Alex\documents\visual studio 2015\Projects\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.TargetButton.resources
+C:\Users\ajjur\Desktop\DungeonCrawler\DungeonCrawler\bin\Debug\DungeonCrawler.exe.config
+C:\Users\ajjur\Desktop\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.exe
+C:\Users\ajjur\Desktop\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.pdb
+C:\Users\ajjur\Desktop\DungeonCrawler\DungeonCrawler\bin\Debug\DungeonCrawler.exe
+C:\Users\ajjur\Desktop\DungeonCrawler\DungeonCrawler\bin\Debug\DungeonCrawler.pdb
+C:\Users\ajjur\Desktop\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.AttackDialogue.resources
+C:\Users\ajjur\Desktop\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.CharacterDisplay.resources
+C:\Users\ajjur\Desktop\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.Dungeon.resources
+C:\Users\ajjur\Desktop\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.Properties.Resources.resources
+C:\Users\ajjur\Desktop\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.SkillDialogue.resources
+C:\Users\ajjur\Desktop\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.TargetButton.resources
+C:\Users\ajjur\Desktop\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.csproj.GenerateResource.Cache
+C:\Users\ajjur\Desktop\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.csprojAssemblyReference.cache
+C:\Users\ajjur\Desktop\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.csproj.CoreCompileInputs.cache
